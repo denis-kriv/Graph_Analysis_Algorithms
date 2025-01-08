@@ -1,5 +1,3 @@
-# Graph_Analysis_Algorithms
-
 ## Test1
 
 ### Task1
